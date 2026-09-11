@@ -26,9 +26,9 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 | adrv9364z7020 | ✅ | ✅ | |
 | adrv9361z7035 | ✅ | ✅ | |
 | zc702_fmcs2   | ✅ |  | |
-| antsdr        | ✅ |  | |
+| antsdr        | ✅ | ✅ | Tested by community. |
 | e310v2        | ✅ |  | |
-| antsdr_e200   | ✅ |  | |
+| antsdr_e200   | ✅ | ✅ | |
 | sdrpi         | ✅ |  | |
 | zcu102_fmcs2  | ✅ | ✅ | ⚠️ Fails on some boards, see [here](../../known_issue/notter.md#no-uart-output-on-zcu102). |
 | neptunesdr    | ✅ |  | |
